@@ -1,2 +1,2 @@
 # c-examples
-C programming examples
+C programming example projects.
